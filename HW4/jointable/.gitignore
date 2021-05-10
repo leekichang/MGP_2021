@@ -1,0 +1,40 @@
+# From following link
+# https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
+jointable
+generate
+result/*.err
+result/*.log
+result/*.out
+data/*m.bin
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
